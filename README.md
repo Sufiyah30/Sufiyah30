@@ -11,7 +11,66 @@ Hello, I am an undergraduate student in Universiti Teknologi Malaysia studying c
 * 🧠  I'm currently learning C++
 * 👥  I'm looking to collaborate on fun and new projects
 
+Skills & Learning 🎓
+--------------
 
+* Programming : C++
+* Soft Skills : Communication, Teamwork skills, Problem-solving
+* Languages spoken : Malay, English
+
+Education 🧠
+--------------
+
+* MRSM Tun Abdul Razak (2018-2023)
+  -> SPM: 8A 1B
+
+* UITM Kampus Dengkil (2023-2024)
+  -> Course : Foundation in Life Science
+  -> CGPA : 3.78
+  -> Muet : 4.0
+
+* Universiti Teknologi Malaysia (2024-Present )
+  -> Course : Bachelor of Computer Science ( Data Engineering ) with Honors
+
+Achievement & Activities 🏅
+--------------
+
+MRSM Tun Abdul Razak <br>
+  -> Team member of PRS Club (2018) <br>
+  -> Treasurer of Khat Club (2019) <br>
+  -> Vice-leader of Food Bureau (2021) <br>
+  -> Vice-leader of Environmental Club (2022) <br>
+  -> Team member of female rugby touch team (2022) <br>
+
+  * Participation <br>
+    -> Organizer of Enviromental Club activities (2022) <br>
+    -> Participate in oilrig design competition (2nd Place) (2019) <br>
+    -> Participate in Starzak competition (2021) <br>
+    -> Participate in Mock Interview by CareerCube (2023) <br>
+    -> Participate in UNGA Competition (2022) <br>
+    -> Volunteering in PBSM (2022) <br>
+    -> Participate in MRSM Rugby Competition (2022) <br>
+
+UITM Kampus Dengkil <br>
+    -> Team member of Environmental Club (2024)
+
+  * Participation <br>
+    -> Organizer of Environmental Club activities (2023) <br>
+
+Universiti Teknologi Malaysia <br>
+    -> Team member of PESAT Club (2024) <br>
+    -> Committee member of Roboxperience Carnival 2.0 (Robo 2.0) (2024) <br>
+
+  * Participation <br>
+    -> Voluteering in Clean The Beach, Clean The Soul (2024) <br>
+    -> Volunteering in Malaysia-Japan international Edutourism Exchange Workshop (2024) <br>
+    -> Uniform Bodies, Clubs & Societies Exhibition (Unbocs) (2024) <br>
+    -> Ecoawareness Design Project (2024) <br>
+    -> E-Poster and Short Video Health Day UTM (2024) <br>
+    -> Hiking Day with PESAT Club (2024) <br>
+    -> Wheels Of Life'25 (2024) <br>
+    -> Asean Quantum Summit (2025) <br>
+    
 
 ### Socials
 
